@@ -14,6 +14,7 @@
 </div>
 
 ## What is Unleash?
+## By Mudassir Alam
 
 Unleash is a powerful open-source solution for feature management. It streamlines your development workflow, accelerates software delivery, and empowers teams to control how and when they roll out new features to end users. With Unleash, you can deploy code to production in smaller, more manageable releases at your own pace.
 
